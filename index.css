@@ -31,7 +31,7 @@ a{
     font-size: 0.8em;
 }
 
-.marginTopSection{
+.marginTop{
     margin-top: 20px;
 }
 
@@ -58,4 +58,29 @@ thead > tr{
 
 table{
     border-collapse: collapse;
+}
+
+footer{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.imgFooter{
+    height: 207px;
+    width: 311px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+#imgFooter1{
+    background-image: url("img/monitor.jpg");
+}
+
+#imgFooter2{
+    background-image: url("img/graph.jpg");
+}
+
+h2{
+    color: white;
 }
