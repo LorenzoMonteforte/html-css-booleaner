@@ -13,7 +13,7 @@ header{
 }
 
 main{
-    margin-top: 10px;
+    margin-top: 20px;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -32,9 +32,30 @@ a{
 }
 
 .marginTopSection{
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 span{
     background-color: yellow;
+}
+
+.colonna1_2{
+    width: 25%;
+}
+
+.align{
+    text-align: left;
+}
+
+thead > tr{
+    color: white;
+    background-color: rgba(30,168,229,255);
+}
+
+.righeDispari{
+    background-color: rgba(177,228,243,255);
+}
+
+table{
+    border-collapse: collapse;
 }
